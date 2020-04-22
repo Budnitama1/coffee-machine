@@ -83,9 +83,9 @@ function paintBody (color) {
 */
 
 
-setInterval(trashConsole, 1000);
+/*setInterval(trashConsole, 1000);
 
 function trashConsole() {
   console.log(Math.random());
 
-}
+}*/

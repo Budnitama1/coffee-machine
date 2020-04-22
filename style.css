@@ -39,6 +39,7 @@
   
   .coffee-cup img {
     width: 100%;
+    opacity: 0;
   }
   
   .atm img {
@@ -54,3 +55,17 @@
   .coffee-oper {
     background: lightgrey;
   }
+  
+  .bills {
+    margin-left: 10px;
+  }  
+
+  .bills img {
+    width: 20%;
+    margin-left: 5px;
+  }  
+  
+  
+  
+  
+  

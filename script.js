@@ -89,3 +89,10 @@ function trashConsole() {
   console.log(Math.random());
 
 }*/
+
+
+    //changeBox.append(coin); // добавляем в конец
+    //changeBox.prepend(coin); добавляем в начало
+    //changeBox.before(coin);// перед элементом
+    //changeBox.after(coin); /// После элемента
+    //changeBox.replaceWith(coin); // Заменяет элемент
